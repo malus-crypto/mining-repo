@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
 Origin: malus-crypto.github.io/mining-repo/ubuntu
 Label: malus-crypto.github.io/mining-repo/ubuntu
 Codename: bionic
@@ -17,3 +20,14 @@ SHA256:
  3860fd1ce948698193a3fdb9852f14efb4026b0fb507e6218d292b773fedc28e 536 main/binary-amd64/Packages
  804fc108eeb2b2f79c49d4716b077626fea47a343443b631575ceda3adb8b141 391 main/binary-amd64/Packages.gz
  a95d0d9160535a2bd887edb78180206ca934de97167341423fc73ca18caa94e9 177 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCAAdFiEE4/JY5uqBnmTCCDfR3q2dwAoQMCIFAl4jt1IACgkQ3q2dwAoQ
+MCKoFgf+P7OjOOY4setD8rBpnc8xTGYbSyzfpc8Pe+G0N64BvtsWzyo6q5VYxGkz
+edGZoxddpjGcgeAEg9gHJUWfcKakGo4lz9qIaETYoe7YhmG4oLjhYI7cfBbzLmAy
+j6KdbAdePAs9hVh4vn1DqBsHAy4+M/NPvnvhINKvq3Sjez9b6Tv3cwxjSz+ZJsA2
+epsA4DzZ/EGnEJCNQoC93/rpNcZwmD6l4puiixx1rO3JC4trm623EH8z32lQ+R0b
+O7spLHN2bNVLj9lC17Ak/8DG7AhoueJPj4OVOZEJS7NmI3tRy2hEswGiUBwaD79Z
+JVXthqN6gatdk7wYDkUwK8SzDEo/sQ==
+=g2Qp
+-----END PGP SIGNATURE-----

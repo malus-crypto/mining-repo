@@ -1,6 +1,7 @@
-Origin: malus-crypto.github.io/ubuntu
-Label: malus-crypto.github.io/ubuntu
+Origin: malus-crypto.github.io/mining-repo/ubuntu
+Label: malus-crypto.github.io/mining-repo/ubuntu
 Codename: bionic
 Architectures: amd64
 Components: main
 Description: Ubuntu packages for crypto mining software
+SignWith: DEAD9DC00A103022
