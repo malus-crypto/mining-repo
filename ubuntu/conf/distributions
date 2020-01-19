@@ -4,4 +4,4 @@ Codename: bionic
 Architectures: amd64
 Components: main
 Description: Ubuntu packages for crypto mining software
-SignWith: DEAD9DC00A103022
+SignWith: 3FAD635E5C9EDD53
