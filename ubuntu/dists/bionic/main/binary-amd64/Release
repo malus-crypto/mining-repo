@@ -1,0 +1,5 @@
+Component: main
+Origin: malus-crypto.github.io/mining-repo
+Label: malus-crypto.github.io/mining-repo
+Architecture: amd64
+Description: Ubuntu packages for crypto mining software

@@ -1,0 +1,19 @@
+Origin: malus-crypto.github.io/mining-repo
+Label: malus-crypto.github.io/mining-repo
+Codename: bionic
+Date: Sun, 19 Jan 2020 01:04:13 UTC
+Architectures: amd64
+Components: main
+Description: Ubuntu packages for crypto mining software
+MD5Sum:
+ a84a55414ff92715e49bccabcb2c0000 536 main/binary-amd64/Packages
+ 8cff4eab384c0a671011e4ca63436fb6 391 main/binary-amd64/Packages.gz
+ fa1015d26cd31e1494b1ef89b3ff7e0d 177 main/binary-amd64/Release
+SHA1:
+ 5b95757153bf3ccda8f749b42a69d45c5d1f3d5f 536 main/binary-amd64/Packages
+ 004902ad505b82d8058522e2a298e8f7bbbfa9a9 391 main/binary-amd64/Packages.gz
+ 4067d8432d04ac6de165a5c2a2837f2eb3ad8cfc 177 main/binary-amd64/Release
+SHA256:
+ 3860fd1ce948698193a3fdb9852f14efb4026b0fb507e6218d292b773fedc28e 536 main/binary-amd64/Packages
+ 804fc108eeb2b2f79c49d4716b077626fea47a343443b631575ceda3adb8b141 391 main/binary-amd64/Packages.gz
+ a95d0d9160535a2bd887edb78180206ca934de97167341423fc73ca18caa94e9 177 main/binary-amd64/Release
