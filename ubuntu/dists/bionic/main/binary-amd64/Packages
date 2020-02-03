@@ -1,15 +1,15 @@
 Package: verium-miner
-Version: 1.0-3
+Version: 1.0-4
 Depends: libcurl4, libssl1.1
 Architecture: amd64
 Maintainer: Andy Hahn <andy@madskills.io>
 Priority: optional
 Section: base
-Filename: pool/main/v/verium-miner/verium-miner_1.0-3_amd64.deb
-Size: 68460
-SHA256: 9c9c4ecc0e2e7db94e11f66bef6e7e342477586369dd08f2da0be85b8422203e
-SHA1: d9a3a9a730eee91c07f383f9d7086cabce61f10d
-MD5sum: d6ebc3c0fb82676a9069b091cd0ff79d
+Filename: pool/main/v/verium-miner/verium-miner_1.0-4_amd64.deb
+Size: 105676
+SHA256: 9e79d86c8a8a165fc740ed4932071f19dd34889275dc4250f79e851ad753bd51
+SHA1: 343fef92ecf14021790ffdb08d18b77ee048981c
+MD5sum: 9e61018e17a8bfc4be97213c0155faf3
 Description: Verium Miner
  A basic package containing @fireworm71's miner (https://github.com/fireworm71/veriumMiner)
  and systemd unit files to run it as a service.

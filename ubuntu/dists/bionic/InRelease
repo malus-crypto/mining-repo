@@ -4,30 +4,30 @@ Hash: SHA256
 Origin: malus-crypto.github.io/mining-repo/ubuntu
 Label: malus-crypto.github.io/mining-repo/ubuntu
 Codename: bionic
-Date: Sun, 19 Jan 2020 23:24:38 UTC
+Date: Mon, 03 Feb 2020 16:17:41 UTC
 Architectures: amd64
 Components: main
 Description: Ubuntu packages for crypto mining software
 MD5Sum:
- 2b9098372135b642516c7184a2d472c4 565 main/binary-amd64/Packages
- 54f8ea97f3aaa49be4c36f69c660081c 411 main/binary-amd64/Packages.gz
+ 78d7c9cbf8510111e4d0001d4859126f 566 main/binary-amd64/Packages
+ 8de8e45bb992f1facf6ee30f6088a825 412 main/binary-amd64/Packages.gz
  fa1015d26cd31e1494b1ef89b3ff7e0d 177 main/binary-amd64/Release
 SHA1:
- b47b7f8c5c28612f20d60820d12d452294d498d4 565 main/binary-amd64/Packages
- a488e47bd80c1759290f59f9ebdb51bf1b28df6c 411 main/binary-amd64/Packages.gz
+ 172c895b2d31229954b8be468cbf5e85b43b41e6 566 main/binary-amd64/Packages
+ 807ae5191f1bb9bf5014727c13456c32c5b9d0ee 412 main/binary-amd64/Packages.gz
  4067d8432d04ac6de165a5c2a2837f2eb3ad8cfc 177 main/binary-amd64/Release
 SHA256:
- f0535c3394d1ccfc6a91983c9e6c9b3cb951e25e01116f366ae1ebe0fa5d6abe 565 main/binary-amd64/Packages
- b5be0434574c2f4f52f92a4976ba754b27204b220062f08ded5521f21f635f6b 411 main/binary-amd64/Packages.gz
+ 29bfdf3c6fc9b03e349e6c7caf5f3e4035a1864ffd7c6dcaf5e810fe718831ca 566 main/binary-amd64/Packages
+ 10a112f949612edbc3e20d7a490a542b7dd594e4a4e15a990b42e83b549cedb8 412 main/binary-amd64/Packages.gz
  a95d0d9160535a2bd887edb78180206ca934de97167341423fc73ca18caa94e9 177 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCAAdFiEE4/JY5uqBnmTCCDfR3q2dwAoQMCIFAl4k5TYACgkQ3q2dwAoQ
-MCK3vgf/cLBHwrluwfxvxx6SL1++gu0HB6PXqpct1dq7svTXCZn/o4HGNezKva+Z
-NR9N9O3n0ozu41y6ThaGEX3qXc9GwuO/1n/4FrcykAs/Brzd/RVCpPD6gDQ7ZFWN
-PWjAPyUTYfnWXmstvuJRT6yAKRDSp4xpaUkNN3xsBA4/z+1tm53HhkxOLTP6n6XU
-PoY+Lz4IiwvY6P60//VnaRs0+cDW1WQ9fNTgAwrkUWCtVhiDuwDB8uEGXMPQ3uSz
-A4vhfqz0toq/pjS2wI0vpI8BVuijQyo5g2sZjLowtvRZePG8x2ib3oLmDRPWnngS
-g9Idl7YrignHazRMIxYykAI5ZQ8LJg==
-=kqtK
+iQEzBAEBCAAdFiEE4/JY5uqBnmTCCDfR3q2dwAoQMCIFAl44R60ACgkQ3q2dwAoQ
+MCK37wgAh/+wIlHCmPTQ1zgFN5kwKoGf74OxJ+Vcf2bu9GHRkBN9Ry1fDhhL41rM
+LNuSxDocp7lsnNykPTum4aGuQxTkI76KvuZDQF+/JRTDFPQ3c/o8Q3sU8C4mBe0d
+0HeNh/L+LWTUhgc+X8OmeXjaICOFqm0RKo1ida57Z2Q9E5sg9naqitIP1DMxYala
+2NkTaIHtSCgoXAjsWvv68lBFqVyHgqsNCzGzaYfm4hCmHZRaU/yG7xseH48vauDl
+6X71io1OniqoO/JhHnO+KHzdyzlFsryq2CrqaepvEfktHA48RUPS34izbTJg3MEf
+oroATZV0iUcohxLReXYlHR0xqvnhVA==
+=tVGb
 -----END PGP SIGNATURE-----
